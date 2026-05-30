@@ -9,11 +9,11 @@ Bath, UK (GMT/BST) — comfortable with US-overlap hours.
 
 ### What I'm working on
 
-- **LLM agents with real tool use** — hand-written agent loops, no framework
+- **LLM agents with real tool use** - hand-written agent loops, no framework
   lock-in, multi-provider (Groq, Gemini, Ollama)
-- **LLM evaluation & observability** — measuring what production AI systems
+- **LLM evaluation & observability** - measuring what production AI systems
   actually do: accuracy, hallucination, cost, latency
-- **Small-model fine-tuning** — LoRA/QLoRA on open models for narrow tasks
+- **Small-model fine-tuning** - LoRA/QLoRA on open models for narrow tasks
   where frontier APIs are overkill
 
 ### Featured projects
