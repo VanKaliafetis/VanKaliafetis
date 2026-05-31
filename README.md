@@ -17,9 +17,11 @@ Bath, UK (GMT/BST) — comfortable with US-overlap hours.
 
 | Project | What it does | Stack |
 |---|---|---|
-| **[Local-RAG-Knowledge-Platform](https://github.com/VanKaliafetis/Local-RAG-Knowledge-Platform)** | Local-first RAG pipeline, fully private, free to run | FastAPI, Ollama, ChromaDB, sentence-transformers |
-| **[AI-Codebase-Assistant](https://github.com/VanKaliafetis/AI-Codebase-Assistant)** | Repo analysis, Q&A, refactor suggestions, patch previews | FastAPI, Streamlit, FAISS, multi-provider LLM |
-| **[predictive-maintenance-rul-platform](https://github.com/VanKaliafetis/predictive-maintenance-rul-platform)** | Probabilistic RUL prediction on NASA CMAPSS turbofan data | PyTorch, LSTM + uncertainty, Streamlit |
+| **[ai-data-analysis-agent](https://github.com/VanKaliafetis/ai-data-analysis-agent)** | Autonomous agent that analyses CSV/Excel data — schema inspection, sandboxed pandas execution, chart generation, multi-provider, full trace logging | Python, Groq, Gemini, Streamlit, pandas |
+| **[ai-llm-platform-lab](https://github.com/VanKaliafetis/ai-llm-platform-lab)** | LLM infrastructure platform — inference benchmarking, RAG eval, groundedness scoring, SQLite observability, LoRA fine-tuning workflows | FastAPI, Streamlit, Ollama, Hugging Face (PEFT, TRL), SQLite |
+| **[AI-Codebase-Assistant](https://github.com/VanKaliafetis/AI-Codebase-Assistant)** | Local-first developer tooling — repo Q&A, file explanations, refactor suggestions, patch previews via semantic retrieval | FastAPI, Streamlit, FAISS, sentence-transformers, multi-provider LLM |
+| **[Local-RAG-Knowledge-Platform](https://github.com/VanKaliafetis/Local-RAG-Knowledge-Platform)** | Local-first RAG pipeline — document ingestion, ChromaDB vector store, grounded answers with citations, fully private | FastAPI, Ollama, ChromaDB, sentence-transformers, Docker |
+| **[predictive-maintenance-rul-platform](https://github.com/VanKaliafetis/predictive-maintenance-rul-platform)** | Probabilistic RUL prediction on NASA CMAPSS turbofan data with uncertainty estimation and sensor anomaly detection | PyTorch (LSTM), Streamlit, FastAPI, scikit-learn |
 
 ### Stack I work in
 
